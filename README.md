@@ -11,3 +11,5 @@ The dataset comes from Kaggle: https://www.kaggle.com/datasets/carrie1/ecommerce
 The most significant findings:
 November is the most profitable month in terms of revenue. The top 10 items in terms of revenue do not completely match the top 10 items in terms of quantity sold. Regional analysis supports that the most profitable regions are the UK, and regions nearest the UK. International buyers typically buy more in wholesale bulk. These bulk orders are reflected by 31.99% of the revenue sourced from the top 10 buying customers. 
 
+The final output csv (clean_online_reseale.csv) is too large for the GitHub repository.
+The final block of the notebook runs this csv, where it can be downloaded for inspection.
