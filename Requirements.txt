@@ -1,0 +1,8 @@
+Requirements
+
+NumPy: import numpy as np
+Pandas: import pandas as pd
+MatPlotLib: import matplotlib.pyplot as plt
+
+Pandas version: 2.2.2
+
